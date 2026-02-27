@@ -1,1 +1,1 @@
-# CoursesStoreFE
+[![CI/CD Pipeline](https://github.com/Vishakha-Sawra/fewvlearns-fullstack-project/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Vishakha-Sawra/fewvlearns-fullstack-project/actions/workflows/ci-cd.yml)
